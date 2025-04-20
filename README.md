@@ -2,7 +2,9 @@
 This project presents an interactive R Shiny dashboard built for analyzing and visualizing a real-world dataset on patients diagnosed with liver cirrhosis. The goal is to extract meaningful insights from the data using exploratory data analysis, effective visualizations, and a user-friendly interface.
 
 🚀 Project Features
+
 ✅ Data Preprocessing & Cleaning
+
 Handled missing values and ensured appropriate data types
 
 Filtered and formatted features for analysis
@@ -34,13 +36,21 @@ Pie charts for categorical variable proportions
 Data table viewer with scroll and search
 
 📂 Folder Structure
+
 bash
+
 Copy
+
 Edit
+
 📁 cirrhosis-dashboard/
+
 ├── cirrhosis.csv
-├── app.R              # Complete R Shiny app
+
+├── app.R      
+# Complete R Shiny app
 ├── README.md
+
 🛠️ Tech Stack
 R for data handling and visualization
 
